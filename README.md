@@ -14,6 +14,12 @@ A tab navigation widget for [Ratatui](https://ratatui.rs) with individually bord
 
 ## Installation
 
+```bash
+cargo add tui-tabs
+```
+
+Or add it manually to your `Cargo.toml`:
+
 ```toml
 [dependencies]
 tui-tabs = "0.1"
@@ -49,7 +55,6 @@ The widget requires exactly 3 rows of height (top border, label row, baseline).
 cargo run --example basic        # Static render, press any key to exit
 cargo run --example interactive  # Arrow keys to navigate, q to quit
 cargo run --example styled       # Square borders, custom colors, no indicator
-cargo run --example demo         # 7 tabs, dark theme, centered title
 ```
 
 ## License
