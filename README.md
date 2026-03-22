@@ -2,7 +2,7 @@
 
 A tab navigation widget for [Ratatui](https://ratatui.rs) with individually bordered boxes and rounded corners.
 
-<!-- screenshot placeholder -->
+![demo](https://raw.githubusercontent.com/jharsono/tui-tabs/main/screenshots/demo.gif)
 
 ## Features
 

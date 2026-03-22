@@ -9,6 +9,7 @@ categories = ["command-line-interface"]
 repository = "https://github.com/jharsono/tui-tabs"
 readme = "README.md"
 rust-version = "1.85"
+exclude = ["screenshots/"]
 
 [dependencies]
 ratatui-core = "0.1.0"
