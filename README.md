@@ -54,7 +54,6 @@ The widget requires exactly 3 rows of height (top border, label row, baseline).
 ```bash
 cargo run --example basic        # Static render, press any key to exit
 cargo run --example interactive  # Arrow keys to navigate, q to quit
-cargo run --example styled       # Square borders, custom colors, no indicator
 ```
 
 ## License
